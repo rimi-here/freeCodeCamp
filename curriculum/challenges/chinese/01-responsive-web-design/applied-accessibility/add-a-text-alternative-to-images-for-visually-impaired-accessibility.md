@@ -9,7 +9,7 @@ dashedName: add-a-text-alternative-to-images-for-visually-impaired-accessibility
 
 # --description--
 
-在其他挑战里你应该已经见到过 `img` 标签的 `alt` 属性了。`alt` 属性中的文本作为备用文字来描述图片的内容，这可以帮助用户在图片加载失败或者图片不可见的情况下理解图片内容，也有助于搜索引擎理解图片内容，并将其加入到搜索结果中。例如：
+在其他挑战里你应该已经见到过 `img` 标签的 `alt` 属性了。`Alt` 属性中的文本作为备用文字来描述图片的内容，这可以帮助用户在图片加载失败或者图片不可见的情况下理解图片内容，也有助于搜索引擎理解图片内容，并将其加入到搜索结果中。例如：
 
 `<img src="importantLogo.jpeg" alt="Company logo">`
 
